@@ -9,8 +9,8 @@ function Header() {
 
             <img
                 className="header_logo"
-                src="https://pngimg.com/uploads/amazon/amazon_PNG28.png"
-            ></img>
+                src="https://pngimg.com/uploads/amazon/amazon_PNG28.png">
+            </img>
 
             <div className ="header_search">
             <input className="header_searchInput" type="text"/>
